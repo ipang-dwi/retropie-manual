@@ -1,2 +1,2 @@
 
-aero
+<img src='../cover.jpg' />
