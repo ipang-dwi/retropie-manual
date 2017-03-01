@@ -1,2 +1,2 @@
 
-<img src='../cover.jpg' />
+<img src='cover.jpg' />
