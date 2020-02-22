@@ -6,4 +6,4 @@ Retropie Manual dalam bahasa Indonesia.
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/retopie-manual/master/cover.jpg" width=50% height=50% />
 
-www.firstplato.com
+www.firstplato.com - together in shine and smile..
